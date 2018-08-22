@@ -5,6 +5,7 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/gqp5hs71l3ebtx1r/branch/master?svg=true)](https://ci.appveyor.com/project/arunoda/next-js/branch/master)
 [![Coverage Status](https://coveralls.io/repos/zeit/next.js/badge.svg?branch=master)](https://coveralls.io/r/zeit/next.js?branch=master)
 [![Join the community on Spectrum](https://withspectrum.github.io/badge/badge.svg)](https://spectrum.chat/next-js)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdelikat%2Fnext.js.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdelikat%2Fnext.js?ref=badge_shield)
 
 Next.js is a minimalistic framework for server-rendered React applications.
 
@@ -1677,3 +1678,7 @@ Please see our [contributing.md](./contributing.md)
 - Tony Kovanen ([@tonykovanen](https://twitter.com/tonykovanen)) – [ZEIT](https://zeit.co)
 - Guillermo Rauch ([@rauchg](https://twitter.com/rauchg)) – [ZEIT](https://zeit.co)
 - Dan Zajdband ([@impronunciable](https://twitter.com/impronunciable)) – Knight-Mozilla / Coral Project
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdelikat%2Fnext.js.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdelikat%2Fnext.js?ref=badge_large)
